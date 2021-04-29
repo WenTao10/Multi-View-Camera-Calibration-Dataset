@@ -9,6 +9,8 @@ The purpose of the multi-view camera calibration dataset is to train a deep netw
 
 # Dataset
 This dataset is published in [BaiYun]().
+The dataset structure is illustrated in the following figure.
+![](https://github.com/WenTao10/calibration-images/blob/main/dataset.png)
 
 ## Image Demo
 ### Sraight Road
