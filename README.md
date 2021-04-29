@@ -1,5 +1,5 @@
 # Multi-View-Camera-Calibration-Dataset (MVCCD)
-The multi-view camera calibration dataset aims to train a deep network to estimate vanishing points and external camera parameters. In this dataset, each image has a unique camera rotation angle, and the label file stores the image name, vanishing point, and camera pose.
+The multi-view camera calibration dataset aims to train a deep network to estimate vanishing points and external camera parameters. In this dataset, each image has a unique camera rotation angle, and the label file stores the image name, vanishing point, and camera pose of each image.
 
 - This dataset contains 17 typical expressway scenes and is divided into nine straight road scenes and eight curved road scenes according to the expressway appearance.
 - There are 32,712 images in the dataset. The training set accounts for 67%, the validation set accounts for 17%, and the test set accounts for 16%.
