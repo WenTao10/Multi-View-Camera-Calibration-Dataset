@@ -19,7 +19,7 @@ This dataset is published in [BaiYun](). Its structure is illustrated in the fol
 ![](https://github.com/WenTao10/calibration-images/blob/main/009838_K385%2B690.jpg)
 
 ## Label Format
-In each sub-dataset (training, validation, and test), there is a label file which is named "vpt_and_camera_pose.txt." This label file contains the image name, vanishing point, pitch angle, yaw angle, camera focal length, and camera height. The following figure illustrates the demo of the label file.
+In each sub-dataset (training, validation, and test), there is a label file which is named "vpt_and_dof.txt." This label file contains the image name, vanishing point, pitch angle, yaw angle, camera focal length, and camera height. The following figure illustrates the demo of the label file.
 ![](https://github.com/WenTao10/calibration-images/blob/main/label.PNG)
 
 ## License
