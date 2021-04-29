@@ -8,8 +8,7 @@ The multi-view camera calibration dataset aims to train a deep network to estima
 - The average camera height is about 12m.
 
 # Dataset
-This dataset is published in [BaiYun](https://pan.baidu.com/s/1SC8dgLK-ZWKxgXdvqDxw_Q), Fetch Code：iz3o 
-). Its structure is illustrated in the following figure.
+This dataset is published in [BaiYun](https://pan.baidu.com/s/1SC8dgLK-ZWKxgXdvqDxw_Q), Fetch Code：iz3o. Its structure is illustrated in the following figure.
 ![](https://github.com/WenTao10/calibration-images/blob/main/dataset.png)
 ## Image Demo
 ### Sraight Road
